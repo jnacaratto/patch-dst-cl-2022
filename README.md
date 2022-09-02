@@ -5,8 +5,8 @@ make easy the update of tzdata on Linux
 
 ### Linux Using SSH (Tested on Debian, Centos 6.7)
 1. Log in using SSH to your server.
-2. Download script `wget https://raw.githubusercontent.com/jnacaratto/patch-dst-cl-2022/main/linux/patch-dst-cl-2022.sh`
-3. Execute `sh ./patch-dst-cl-2022.sh`
+2. Download script `wget https://raw.githubusercontent.com/jnacaratto/patch-dst-cl-2022/main/linux/patch_DST_cl_2022.sh`
+3. Execute `sh ./patch_DST_cl_2022.sh`
 
 ### Windows (Tested on Windows Server )
 1. Log in using SSH to your server.
