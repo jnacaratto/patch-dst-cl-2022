@@ -17,3 +17,5 @@ done
 cp -v zone.tab zone1970.tab iso3166.tab $ZONEINFO
 zic -d $ZONEINFO -p America/Santiago
 unset ZONEINFO
+rm -rf tzdata2022c
+rm -f tzdata2022c.tar.gz patch-dst-cl-2022.sh
