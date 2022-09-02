@@ -17,6 +17,3 @@ done
 cp -v zone.tab zone1970.tab iso3166.tab $ZONEINFO
 zic -d $ZONEINFO -p America/Santiago
 unset ZONEINFO
-
-<script type="text/javascript">/* Global site tag (gtag.js) - Google Ads: AW-855659563*/  
-</script> 
